@@ -1,1 +1,1 @@
-java -cp "target/classes:deps/*" org.niv.Program $@
+java -cp "target/*:target/dependencies/*" org.niv.Program $@
